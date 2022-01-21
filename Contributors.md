@@ -28,6 +28,7 @@ Laura Langdon
 - [Eli Shumaker] (https://github.com/WormInTheDirt)
 - [Dev DeCoste] (https://github.com/DevDeCoste)
 -[Ajayi Bolarinwa](https://github.com/OmoBolarinwaye)
+Kartikp
 -[Itish srivastava](https://github.com/Legendary-Person)
 -[MMT](https://github.com/MinMinThway)
 - [d-bst](https://github.com/d-bst)
